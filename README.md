@@ -130,7 +130,7 @@ Also, note that the logistic regression classifier built with balanced class wei
 
 ## Jupyter Notebooks
 
-1. This notebook contains the full workflow, excluding strategies to deal with imbalanced class prportions during model fitting: [Github_Enron_Data_Final_Project.ipynb](https://github.com/naiyanchen/udacity_enron_fraud/blob/master/Github_Enron_Data_Final_Project.ipynb)
+1. This notebook contains the full workflow, excluding strategies to deal with imbalanced class proportions during model fitting: [Github_Enron_Data_Final_Project.ipynb](https://github.com/naiyanchen/udacity_enron_fraud/blob/master/Github_Enron_Data_Final_Project.ipynb)
 
 
 ## References
