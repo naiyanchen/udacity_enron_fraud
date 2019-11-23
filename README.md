@@ -10,7 +10,7 @@ This project involves building a person of interest identifier based on financia
 The training and test data were made available by instructors of the Udacity Machine Learning course (UD120) and includes (1) Financial and email data of Enron employees (2) List of persons of interest in the fraud case, including individuals who were indicted, reached a settlement, or plea deal with the government, or testified in exchange for prosecution immunity.
 
 ## Workflow
-Data wrangling involves the following
+Data wrangling involves the following:
 1. Data exploration and outliers removal
 2. Feature engineering, Feature Selection and Feature Scaling
 3. Quantify class proportions
