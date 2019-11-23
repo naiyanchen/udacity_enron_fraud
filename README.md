@@ -132,6 +132,8 @@ Also, note that the logistic regression classifier built with balanced class wei
 
 1. This notebook contains the full workflow, excluding strategies to deal with imbalanced class proportions during model fitting: [Github_Enron_Data_Final_Project.ipynb](https://github.com/naiyanchen/udacity_enron_fraud/blob/master/Github_Enron_Data_Final_Project.ipynb)
 
+2. This notebook contains the full workflow, including the strategy to deal with imbalanced class proportions during model fitting by using "class_weight = 'balanced'": [Github_Enron_Data_Final_Project_ClassWeightBalanced.ipynb](https://github.com/naiyanchen/udacity_enron_fraud/blob/master/Github_Enron_Data_Final_Project_ClassWeightBalanced.ipynb)
+
 
 ## References
 * [Udacity UD120 Course](https://github.com/udacity/ud120-projects) 
